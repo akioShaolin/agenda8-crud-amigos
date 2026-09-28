@@ -1,2 +1,5 @@
-# agenda8-crud-amigos
-Atividade do curso de Desenvolvimento de Sistemas Ag.08
+# Agenda 08 - Desenvolvimento de Sistemas II
+
+Apresentação do projeto de cadastro de amigos da Gabi.
+
+Projeto em desenvolvimento.
