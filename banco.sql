@@ -7,7 +7,7 @@ CREATE TABLE amigos (
     nome VARCHAR(100) NOT NULL,
     telefone VARCHAR(20),
     email VARCHAR(100)
-)
+);
 
 CREATE TABLE usuarios (
     id INT AUTO_INCREMENT PRIMARY KEY,
